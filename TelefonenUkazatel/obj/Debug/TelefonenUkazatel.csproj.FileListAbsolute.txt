@@ -1,0 +1,8 @@
+E:\Programming\Rechnici\TelefonenUkazatel\bin\Debug\TelefonenUkazatel.exe.config
+E:\Programming\Rechnici\TelefonenUkazatel\bin\Debug\TelefonenUkazatel.exe
+E:\Programming\Rechnici\TelefonenUkazatel\bin\Debug\TelefonenUkazatel.pdb
+E:\Programming\Rechnici\TelefonenUkazatel\obj\Debug\TelefonenUkazatel.csproj.AssemblyReference.cache
+E:\Programming\Rechnici\TelefonenUkazatel\obj\Debug\TelefonenUkazatel.csproj.SuggestedBindingRedirects.cache
+E:\Programming\Rechnici\TelefonenUkazatel\obj\Debug\TelefonenUkazatel.csproj.CoreCompileInputs.cache
+E:\Programming\Rechnici\TelefonenUkazatel\obj\Debug\TelefonenUkazatel.exe
+E:\Programming\Rechnici\TelefonenUkazatel\obj\Debug\TelefonenUkazatel.pdb

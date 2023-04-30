@@ -1,0 +1,8 @@
+E:\Programming\Rechnici\NechetniSreshtaniya\bin\Debug\NechetniSreshtaniya.exe.config
+E:\Programming\Rechnici\NechetniSreshtaniya\bin\Debug\NechetniSreshtaniya.exe
+E:\Programming\Rechnici\NechetniSreshtaniya\bin\Debug\NechetniSreshtaniya.pdb
+E:\Programming\Rechnici\NechetniSreshtaniya\obj\Debug\NechetniSreshtaniya.csproj.AssemblyReference.cache
+E:\Programming\Rechnici\NechetniSreshtaniya\obj\Debug\NechetniSreshtaniya.csproj.SuggestedBindingRedirects.cache
+E:\Programming\Rechnici\NechetniSreshtaniya\obj\Debug\NechetniSreshtaniya.csproj.CoreCompileInputs.cache
+E:\Programming\Rechnici\NechetniSreshtaniya\obj\Debug\NechetniSreshtaniya.exe
+E:\Programming\Rechnici\NechetniSreshtaniya\obj\Debug\NechetniSreshtaniya.pdb
